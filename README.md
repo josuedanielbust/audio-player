@@ -1,6 +1,5 @@
-audio-player
+Audio Player
 ============
-#Audio Player
 This is a audio player in jQuery 1.7.3, HTML5, CSS3
 
 ##Note
